@@ -19,4 +19,4 @@ I love working on scalable backend systems, solving performance bottlenecks, and
 ### 🔗 Let's connect!
 - [Telegram](https://t.me/KristofRogue)
 
-- [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Kristofer-Rogue)](https://github.com/anuraghazra/github-readme-stats)
+- [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Kristofer-Rogue)](https://vercel.live/link/github-readme-stats-beta-beryl-13.vercel.app?via=project-dashboard-alias-list&p=1&page=/)
