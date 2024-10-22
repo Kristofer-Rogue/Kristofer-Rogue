@@ -4,8 +4,8 @@ I'm a **backend developer** specializing in **Go** and **Python**, with solid ex
 
 I love working on scalable backend systems, solving performance bottlenecks, and learning new programming paradigms. I also enjoy experimenting with new languages and pushing the boundaries of what they can do.
 
-- 🌱 I’m currently diving deeper into [current technology/language you're learning].
-- 🎮 Working on my own game project and contributing to open-source web tools.
+- 🌱 I’m currently diving deeper into Zig.
+- 🎮 At work I write backend on go, and in my spare time I'm working on a small indie game
 - 🛠️ Enjoy learning about compilers, memory management, and game engines.
 
 ### 🚀 Skills:
