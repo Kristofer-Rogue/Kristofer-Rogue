@@ -1,23 +1,20 @@
-# Hello! 👋 I'm [Your Name]
+# Hello! 👋 I'm Kristof
 
-I'm a passionate **web developer** with a strong interest in **low-level programming** and **game development**. I enjoy creating efficient, scalable solutions on the web while also exploring the fascinating world of systems programming and game mechanics.
+I'm a **backend developer** specializing in **Go** and **Python**, with solid experience in **C++** and **C#**. Right now, I'm diving deep into **Zig**, exploring its potential in low-level systems programming and performance optimization. 
+
+I love working on scalable backend systems, solving performance bottlenecks, and learning new programming paradigms. I also enjoy experimenting with new languages and pushing the boundaries of what they can do.
 
 - 🌱 I’m currently diving deeper into [current technology/language you're learning].
 - 🎮 Working on my own game project and contributing to open-source web tools.
 - 🛠️ Enjoy learning about compilers, memory management, and game engines.
 
 ### 🚀 Skills:
-- **Languages:** JavaScript, Python, C, C++
-- **Web Technologies:** HTML5, CSS3, React, Node.js, Express
-- **Game Development:** Unity, Unreal Engine, OpenGL
-- **Low-level Programming:** C, Rust, Linux System Programming
+- **Languages:** Go, Python, Zig, C++, C#
+- **Databases:** PostgreSQL, MySQL, MongoDB, Redis
+- **Other Interests:** Systems programming, game development, and performance tuning
 
 ### 🛠 Tools:
-- Git | Docker | Linux | Visual Studio Code
+- Git | Docker | Linux | Neovim
 
-### 📊 GitHub Stats:
-![Your GitHub stats](https://github-readme-stats.vercel.app/api?username=yourusername&show_icons=true&theme=radical)
-
-[![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=yourusername&layout=compact&theme=radical)](https://github.com/anuraghazra/github-readme-stats)
-
-Feel free to check out my repositories or get in touch with me!
+### 🔗 Let's connect!
+- [Telegram](https://t.me/KristofRogue)
