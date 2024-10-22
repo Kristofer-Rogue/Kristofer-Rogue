@@ -18,3 +18,5 @@ I love working on scalable backend systems, solving performance bottlenecks, and
 
 ### 🔗 Let's connect!
 - [Telegram](https://t.me/KristofRogue)
+
+- [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Kristofer-Rogue)](https://github.com/anuraghazra/github-readme-stats)
